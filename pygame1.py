@@ -1,5 +1,5 @@
 import pygame
-#test
+#testing
 #init pygame
 pygame.init
 
